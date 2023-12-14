@@ -1,1 +1,101 @@
-Gin Berry Blend
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gin Berry Blend - Venda</title>
+  <style>
+    /* Estilos CSS para o site de venda do Gin Berry Blend */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color:darkslategrey;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      margin: 0;
+    }
+    
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .product {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    
+    .product img {
+      width: 200px;
+      height: auto;
+      margin-right: 20px;
+    }
+    
+    .product-info {
+      flex: 1;
+    }
+    
+    .product-title {
+      font-size: 24px;
+      font-weight: bold;
+      margin: 0;
+    }
+    
+    .product-price {
+      font-size: 18px;
+      color: #888;
+      margin: 5px 0;
+    }
+    
+    .buy-button {
+      background-color:green;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    
+    footer {
+      background-color:darkslategrey;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gin Berry Blend</h1>
+    <p>Delicioso gin com sabor de frutas vermelhas</p>
+  </header>
+  
+  <main>
+    <div class="product">
+      <img src="aaa/Gin.jpg" alt="Gin Berry Blend">
+      <div class="product-info">
+        <h2 class="product-title">Gin Berry Blend</h2>
+        <p class="product-price">R$ 90,00</p>
+        <p>Descrição: Com o aumento da demanda por bebidas artesanais e inovadoras, a empresa BerryBlend Spirits trás um gin a base de jabuticaba com qualidade e sabor distritivo a BerryBlend Spirits Creations prioriza a qualidade e o sabor, além de práticas sustentávels, desde a seleção de Ingredientes até as embalagens proporcionando uma experiência sensorial única e contribuindo para o desenvolvimento sustentável da Indústria de bebidas.</p>
+        <button class="buy-button">Comprar</button>
+      </div>
+    </div>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Gin Berry Blend - Todos os direitos reservados</p>
+  </footer>
+</body>
+</html>
