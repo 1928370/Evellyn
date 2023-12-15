@@ -86,10 +86,10 @@
       <img src="aaa/Gin.jpg" alt="Gin Berry Blend">
       <div class="product-info">
         <h2 class="product-title">Gin Berry Blend</h2>
-        <p class="product-price">R$ 90,00</p>
+        <p class="product-price">R$ 119,99</p>
         <p>Descrição: Com o aumento da demanda por bebidas artesanais e inovadoras, a empresa BerryBlend Spirits trás um gin a base de jabuticaba com qualidade e sabor distritivo a BerryBlend Spirits Creations prioriza a qualidade e o sabor, além de práticas sustentávels, desde a seleção de Ingredientes até as embalagens proporcionando uma experiência sensorial única e contribuindo para o desenvolvimento sustentável da Indústria de bebidas.</p>
         <button class="buy-button">
-            <a href="https://mpago.la/1Uw2VDG">Comprar</a>
+            <a href="https://mpago.la/2TECXtd">Comprar</a>
         </button>
       </div>
     </div>
